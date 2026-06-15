@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-from backend.api import dashboard, metrics, explore, chat, insights
+from .api import dashboard, metrics, explore, chat, insights
 
 app = FastAPI(title="Amdocs Data Analyst API")
 
