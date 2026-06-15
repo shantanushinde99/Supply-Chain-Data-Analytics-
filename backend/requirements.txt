@@ -5,3 +5,4 @@ pandas
 langchain
 langchain-openai
 langchain-experimental
+duckdb
