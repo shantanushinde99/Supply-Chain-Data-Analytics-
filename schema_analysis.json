@@ -1,0 +1,63 @@
+{
+    "Numerical columns": [
+        "Price",
+        "Availability",
+        "Number of products sold",
+        "Revenue generated",
+        "Stock levels",
+        "Lead times",
+        "Order quantities",
+        "Shipping times",
+        "Shipping costs",
+        "Lead time",
+        "Production volumes",
+        "Manufacturing lead time",
+        "Manufacturing costs",
+        "Defect rates",
+        "Costs"
+    ],
+    "Categorical columns": [
+        "Product type",
+        "SKU",
+        "Customer demographics",
+        "Shipping carriers",
+        "Supplier name",
+        "Location",
+        "Inspection results",
+        "Transportation modes",
+        "Routes"
+    ],
+    "Date columns": [],
+    "Geographic fields": [
+        "Location",
+        "Routes"
+    ],
+    "Supplier-related fields": [
+        "Supplier name",
+        "Lead time",
+        "Supplier name"
+    ],
+    "Product-related fields": [
+        "Product type",
+        "SKU",
+        "Availability",
+        "Number of products sold",
+        "Stock levels",
+        "Defect rates"
+    ],
+    "Logistics-related fields": [
+        "Lead times",
+        "Order quantities",
+        "Shipping times",
+        "Shipping carriers",
+        "Transportation modes",
+        "Routes"
+    ],
+    "Cost and revenue fields": [
+        "Price",
+        "Revenue generated",
+        "Shipping costs",
+        "Manufacturing costs",
+        "Costs"
+    ]
+}
